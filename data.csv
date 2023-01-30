@@ -1,0 +1,98 @@
+date,name,category,value,year
+1001-01-01,Cumhuriyet Halk Partisi,CHP,4000000,1946
+1001-01-01,Demokrat Parti,DP,750000
+1001-01-01,Milli Kalkınma Partisi,MKP,200
+1001-01-01,Bağımsızlar,B,120
+1002-01-01,Demokrat Parti,DP,4391694
+1002-01-01,Cumhuriyet Halk Partisi,CHP,3148626
+1002-01-01,Millet Partisi,MP,368537
+1002-01-01,Bağımsızlar,B,44537
+1003-01-01,Demokrat Parti,DP,5313659
+1003-01-01,Cumhuriyet Halk Partisi,CHP,3193471
+1003-01-01,Cumhuriyetçi Millet Partisi,CMP,480249
+1003-01-01,Bağımsızlar,B,56393
+1003-01-01,Türkiye Köylü Partisi,TKP,50935
+1004-01-01,Demokrat Parti,DP,4497811
+1004-01-01,Cumhuriyet Halk Partisi,CHP,3825267
+1004-01-01,Cumhuriyetçi Millet Partisi,CMP,604087
+1004-01-01,Hürriyet Partisi,HP,321471
+1004-01-01,Bağımsızlar,B,1850
+1005-01-01,Cumhuriyet Halk Partisi,CHP,3724752
+1005-01-01,Adalet Partisi,AP,3527435
+1005-01-01,Cumhuriyetçi Köylü Millet Partisi,CKMP,1415390
+1005-01-01,Yeni Türkiye Partisi,YTP,1391924
+1005-01-01,Bağımsızlar,B,81732
+1006-01-01,Adalet Partisi,AP,4921235
+1006-01-01,Cumhuriyet Halk Partisi,CHP,2675785
+1006-01-01,Millet Partisi,MP,582704
+1006-01-01,Yeni Türkiye Partisi,YTP,346514
+1006-01-01,Bağımsızlar,B,296528
+1007-01-01,Adalet Partisi,AP,4229712
+1007-01-01,Cumhuriyet Halk Partisi,CHP,2487006
+1007-01-01,Güven Partisi,GP,597818
+1007-01-01,Bağımsızlar,B,511023
+1007-01-01,Millet Partisi,MP,292961
+1008-01-01,Cumhuriyet Halk Partisi,CHP,3570583
+1008-01-01,Adalet Partisi,AP,3197897
+1008-01-01,Demokratik Parti,DEP,1275502
+1008-01-01,Milli Selamet Partisi,MSP,1265771
+1008-01-01,Cumhutiyetçi Güven Partisi,CGP,564343
+1009-01-01,Cumhuriyet Halk Partisi,CHP,6136171
+1009-01-01,Adalet Partisi,AP,5468202
+1009-01-01,Milli Selamet Partisi,MSP,1269918
+1009-01-01,Milliyetçi Hareket Partisi,MHP,951544
+1009-01-01,Bağımsızlar,B,370035
+1010-01-01,Anavatan Partisi,ANAP,7833148
+1010-01-01,Halkçı Parti,HAP,5285804
+1010-01-01,Milliyetçi Demokrasi Partisi,MDP,4036970
+1010-01-01,Bağımsızlar,B,195588
+1011-01-01,Anavatan Partisi,ANAP,8704335
+1011-01-01,Sosyaldemokrat Halkçı Parti,SHP,5931000
+1011-01-01,Doğru Yol Partisi,DYP,4587062
+1011-01-01,Demokratik Sol Parti,DSP,2044576
+1011-01-01,Refah Partisi,RP,1717425
+1012-01-01,Doğru Yol Partisi,DYP,6600726
+1012-01-01,Anavatan Partisi,ANAP,5862623
+1012-01-01,Sosyaldemokrat Halkçı Parti,SHP,5066571
+1012-01-01,Refah Partisi,RP,4121355
+1012-01-01,Demokratik Sol Parti,DSP,2624301
+1013-01-01,Refah Partisi,RP,6012450
+1013-01-01,Anavatan Partisi,ANAP,5527288
+1013-01-01,Doğru Yol Partisi,DYP,5396009
+1013-01-01,Demokratik Sol Parti,DSP,4118025
+1013-01-01,Cumhuriyet Halk Partisi,CHP,3011076
+1014-01-01,Demokratik Sol Parti,DSP,6919670
+1014-01-01,Milliyetçi Hareket Partisi,MHP,5606583
+1014-01-01,Fazilet Partisi,FP,4805381
+1014-01-01,Anavatan Partisi,ANAP,4122929
+1014-01-01,Doğru Yol Partisi,DYP,3745417
+1015-01-01,Adalet ve Kalkınma Partisi,AKP,10808229
+1015-01-01,Cumhuriyet Halk Partisi,CHP,6113352
+1015-01-01,Doğru Yol Partisi,DYP,3008942
+1015-01-01,Milliyetçi Hareket Partisi,MHP,2635787
+1015-01-01,Genç Parti,GEP,2285598
+1016-01-01,Adalet ve Kalkınma Partisi,AKP,16198597
+1016-01-01,Cumhuriyet Halk Partisi,CHP,7277553
+1016-01-01,Milliyetçi Hareket Partisi,MHP,4968452
+1016-01-01,Demokrat Parti,DP,1892686
+1016-01-01,Genç Parti,GEP,1059679
+1017-01-01,Adalet ve Kalkınma Partisi,AKP,21399082
+1017-01-01,Cumhuriyet Halk Partisi,CHP,11155972
+1017-01-01,Milliyetçi Hareket Partisi,MHP,5585513
+1017-01-01,Bağımsızlar,B,2819917
+1017-01-01,Saadet Partisi,SP,543454
+1018-01-01,Adalet ve Kalkınma Partisi,AKP,18867411
+1018-01-01,Cumhuriyet Halk Partisi,CHP,11518139
+1018-01-01,Milliyetçi Hareket Partisi,MHP,7520006
+1018-01-01,Halkların Demokratik Partisi,HDP,6058489
+1018-01-01,Saadet Partisi,SP,949178
+1019-01-01,Adalet ve Kalkınma Partisi,AKP,23681926
+1019-01-01,Cumhuriyet Halk Partisi,CHP,12111812
+1019-01-01,Milliyetçi Hareket Partisi,MHP,5694136
+1019-01-01,Halkların Demokratik Partisi,HDP,5148085
+1019-01-01,Saadet Partisi,SP,325978
+1019-01-01,Adalet ve Kalkınma Partisi,AKP,20559732
+1019-01-01,Cumhuriyet Halk Partisi,CHP,11086897
+1019-01-01,Halkların Demokratik Partisi,HDP,5606622
+1019-01-01,Milliyetçi Hareket Partisi,MHP,5444728
+1019-01-01,İyi Parti,IYIP,4932510

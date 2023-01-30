@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Türkiye'deki Partilerin Oy Sayıları</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    
+    <style>
+        text{
+    font-size: 16px;
+    font-family: Open Sans, sans-serif;
+}
+
+.tick text {
+    fill: #777777;
+}
+
+.tick line {
+    stroke: #dddddd;
+}
+
+.tick line.origin{
+    stroke: #aaaaaa;
+}
+
+path.domain{
+    display: none;
+}
+
+text.yearText{
+    font-size: 64px;
+    font-weight: 700;
+    opacity: 0.25;
+}
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Türkiye'deki Partilerin Oy Sayıları</h1>
+<div id="chart"></div>
+<h1 id="year" style="text-align: end; margin-right: 10vw; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">1946</h1>
+<script>
+    let year = 1946
+    function increaseYear(){
+       if (year==2023){
+        location.reload();
+       }
+       else{year++}
+       
+       document.getElementById("year").innerHTML = year
+    }
+    setInterval(increaseYear, 2500);
+</script>
+<script src="main.js"></script>
+</body>
+</html>
